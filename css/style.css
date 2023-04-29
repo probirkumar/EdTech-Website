@@ -11,6 +11,7 @@
     background: #0000007a;
 } */
 
+
 .overly {
     position: absolute;
     left: 0;
@@ -18,4 +19,11 @@
     top: 0;
     bottom: 0;
     background: #0000008a;
+}
+
+.background {
+    background-color: #F4FAFD;
+}
+.bg-color {
+    background-color: #289BDE;
 }
